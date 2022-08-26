@@ -1,0 +1,11 @@
+.*
+*~
+*.pyc
+*.swp
+!.gitignore
+!.gitkeep
+
+guest.in
+guest.out
+test-results/
+tmp/
